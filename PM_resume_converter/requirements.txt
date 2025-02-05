@@ -1,0 +1,5 @@
+PyMuPDF
+langchain-openai
+langchain-pinecone==0.2.0
+pinecone-notebooks==0.1.1
+langchain-community==0.3.10
